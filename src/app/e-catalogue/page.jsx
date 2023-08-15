@@ -51,7 +51,7 @@ export default function Promosi({ searchParams }) {
         <CardPromo
           src={"/assets/cat2.jpeg"}
           text={"Asus PC AIO A5401WRAK-BA581WS"}
-          harga="RP. 12.868.700,00"
+          harga="Rp 12.868.700,00"
           detail={"Spesifikasi:"}
           detail2={
             "Processor: Intel Core i5-10500T 2.3 GHz (12M Cache, up to 3.8GHz, 6 Cores)"
@@ -70,6 +70,7 @@ export default function Promosi({ searchParams }) {
         <CardPromo
           src={"/assets/cat1.jpeg"}
           text={"Asus PC AIO V222FAK-BA542W"}
+          harga={"Rp 12.088.700,00"}
           detail={"Spesifikasi:"}
           detail2={
             "Processor: Intel Core i5-10210U 1.6 GHz (6M Cache, up to 4.2 GHz, 4 cores)"
@@ -124,7 +125,7 @@ export default function Promosi({ searchParams }) {
         <CardPromo
           src={"/assets/cat3.jpeg"}
           text={"PC Lenovo AIO 5 24IOB6 CLID"}
-          harga={"Rp 24.700.00,00"}
+          harga={"Rp 24.700.000,00"}
           detail={"Spesifikasi:"}
           detail2={
             "Processor: Intel Core i7-11700T (*C / 16T, 1.4 / 4.6GHz Max Boost"
@@ -310,7 +311,7 @@ export default function Promosi({ searchParams }) {
         <CardPromo
           src={"/assets/cat11.jpeg"}
           text={"HP PC 24-CB1017D"}
-          harga={"Rp 12.998.700,00"}
+          harga={"Rp 16.248.700,00"}
           detail={"Spesifikasi:"}
           detail2={
             "Processor: Intel Core i5-1235U (up to 4.2GHz with Intel Turbo Boost Technology, 12MB L3 Cache, 10 Cores, 12 Threads)"
