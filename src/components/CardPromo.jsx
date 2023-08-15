@@ -25,6 +25,7 @@ export default function CardPromo({
     >
       <div className="bg-[#243B82] md:h-[455px] sm:h-[260px] h-[155px] md:w-[360px] sm:w-[200px] w-[120px] rounded-lg mb-16">
         <Image
+          alt=""
           className="md:w-[350px] m-auto rounded-lg pt-1"
           src={src}
           width={200}

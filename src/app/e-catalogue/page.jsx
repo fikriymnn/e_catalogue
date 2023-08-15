@@ -2,9 +2,6 @@
 import CardPromo from "@/components/CardPromo";
 
 import Navbar from "@/components/Navbar";
-import Link from "next/link";
-
-import { useEffect, useState } from "react";
 
 export default function Promosi({ searchParams }) {
   return (
