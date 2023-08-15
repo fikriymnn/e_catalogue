@@ -8,7 +8,7 @@ export default function Promosi({ searchParams }) {
     <>
       <Navbar />
       <div className="flex items-center">
-        <div className="bg-[#B8ECF8] rounded md:w-64 sm:w-40 w-36 mb-10  flex items-center mx-auto hover:bg-[#ffc36fa4]">
+        <div className="bg-[#B8ECF8] rounded md:w-64 sm:w-40 w-36 mb-10 mt-10 flex items-center mx-auto hover:bg-[#ffc36fa4]">
           <a
             href="/e-catalogue"
             className="font-bold block py-2 pl-3 pr-4 text-[#243B82] rounded bg-transparent md:border-0 md:hover:text-black md:p-0  dark:hover:text-black m-auto"
@@ -16,7 +16,7 @@ export default function Promosi({ searchParams }) {
             Computer
           </a>
         </div>
-        <div className="bg-[#B8ECF8] rounded md:w-64 sm:w-40 w-36 mb-10  flex items-center mx-auto hover:bg-[#ffc36fa4]">
+        <div className="bg-[#B8ECF8] rounded md:w-64 sm:w-40 w-36 mb-10 mt-10 flex items-center mx-auto hover:bg-[#ffc36fa4]">
           <a
             href="/e-catalogue/printer"
             className="font-bold block py-2 pl-3 pr-4 text-[#243B82] rounded bg-transparent md:border-0 md:hover:text-black md:p-0  dark:hover:text-black m-auto"

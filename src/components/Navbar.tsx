@@ -20,10 +20,12 @@ export default function Navbarr() {
 
         href="/e-catalogue"
       >
-        <Image src="/assets/SldLogo.png" width={50} height={50} className="mr-3" alt="Logo" />
+        <Image src="/assets/group2.png" width={480} height={84} className="mr-3" alt="Logo" />
+        
 
       </Navbar.Brand>
-
+      
+      
 
     </Navbar>
 
